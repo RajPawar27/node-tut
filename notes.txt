@@ -1,0 +1,15 @@
+
+- no window obj is present 
+- there is global values 
+    1. _ _dirname : path of current 
+    2._ _filename : file name
+
+- module : it contain all the objects
+
+- built in module
+    1.OS 
+    2.path
+    3.fs
+        - sync 
+        - async
+        
